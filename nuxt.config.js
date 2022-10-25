@@ -1,7 +1,11 @@
 export default {
-  // Global page headers: https://go.nuxtjs.dev/config-head
+  // Global page headers: https://go.nuxtjs.dev/config-
+  mode: 'static',
+  router: {
+    base: '/portfolio-ohinlandry/'
+  },
   head: {
-    title: "Ohin landry ",
+    title: "ohin landry ",
     htmlAttrs: {
       lang: "en",
     },
