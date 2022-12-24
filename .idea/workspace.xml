@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="60ffdc89-9843-4ed5-810b-e235f0cecff6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/200.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_nuxt/11bf521.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_nuxt/215c944.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_nuxt/49ac118.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_nuxt/583c379.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_nuxt/6d4dfcd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_nuxt/7bcb33a.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_nuxt/82239cf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_nuxt/8eac2ff.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_nuxt/9933692.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_nuxt/LICENSES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_nuxt/a88bae3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_nuxt/css/0809093.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_nuxt/css/719323e.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_nuxt/css/faf9c44.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_nuxt/de1a575.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_nuxt/ec65ec1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_nuxt/static/1666716201/manifest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_nuxt/static/1666716201/payload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/portfolio-ohinlandry.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/animate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/dark.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/globals.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/ionicons.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/pe-icon.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Pe-icon-7-stroke.eot" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/fonts/Pe-icon-7-stroke.1d449ea.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Pe-icon-7-stroke.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/fonts/Pe-icon-7-stroke.7233a7a.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Pe-icon-7-stroke.woff" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/fonts/Pe-icon-7-stroke.11f7c07.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fa-brands-400.eot" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/fonts/fa-brands-400.6ebfb17.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fa-brands-400.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/fonts/fa-brands-400.a7bf6b7.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fa-brands-400.woff" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/fonts/fa-brands-400.4614227.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fa-brands-400.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/fonts/fa-brands-400.6563814.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fa-regular-400.eot" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/fonts/fa-regular-400.2a7d0e4.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fa-regular-400.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/fonts/fa-regular-400.c9b43a4.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fa-regular-400.woff" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/fonts/fa-regular-400.9532d08.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fa-regular-400.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/fonts/fa-regular-400.4e988e0.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fa-solid-900.eot" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/fonts/fa-solid-900.5e5c6e5.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fa-solid-900.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/fonts/fa-solid-900.ea6ccb0.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fa-solid-900.woff" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/fonts/fa-solid-900.0fc3f8c.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fa-solid-900.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/fonts/fa-solid-900.ea995b6.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/ionicons.eot" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/fonts/ionicons.68e3a4f.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/ionicons.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/fonts/ionicons.1fa6a1e.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/ionicons.woff" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/fonts/ionicons.0b4ad61.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/aboutSkillsProgress.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/animateElement.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/cardMouseEffect.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/cursorEffect.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/delay.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/fadeInOut.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/fadeWhenScroll.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/getSiblings.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/initFullNavbarMenu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/initIsotope.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/loadingPace.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/removeSlashpagination.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/scrollToTop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/teamSkillsProgress.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/thumparallax.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/thumparallaxDown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/tooltipEffect.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Footer/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Freelancre-intro/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Loading/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Mouse-cursor/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Scroll-to-top/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/particle-config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/pr-s-black.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/dark.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nuxt.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/nuxt.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/VueScrollTo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/particles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/vueAwesomeSwiper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/vueEllipseProgress.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/vueSlickCarousel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/vueTyper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/favicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/hero.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/hero.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/isotope.pkgd.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/isotope.pkgd.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/pace.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/pace.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/simpleParallax.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/simpleParallax.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/splitting.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/splitting.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/wow.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/wow.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GaG1welOLlHvsvlB6yOGZAKmpf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "last_opened_file_path": "C:/Users/OHIN Landry/Documents/portfolio-ohinlandry",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true",
+    "vuejs.nuxt.types-notification-shown": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\OHIN Landry\Documents\portfolio-ohinlandry\pages" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60ffdc89-9843-4ed5-810b-e235f0cecff6" name="Changes" comment="" />
+      <created>1666619073068</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666619073068</updated>
+      <workItem from="1666619074604" duration="17024000" />
+      <workItem from="1666718544238" duration="30000" />
+      <workItem from="1666722783791" duration="2519000" />
+      <workItem from="1666725832772" duration="337000" />
+      <workItem from="1666737625273" duration="66000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
