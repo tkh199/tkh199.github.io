@@ -6,7 +6,7 @@
 /* Big Screen Layout: 1280px. */
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
   .hero-area {
-    height: 650px;
+    height: 450px;
   }
   .hero-content h3 {
     font-size: 90px;
@@ -479,12 +479,13 @@
     margin-bottom: 40px;
   }
   .hero-area {
-    height: 600px;
+    height: 370px;
   }
   /*bio*/
   p.bio-text {
-    font-size: 27px;
-    line-height: 40px;
+    font-size: 21px;
+    line-height: 30px;
+    margin-top: 17px;
   }
   .section-padding {
     padding: 50px 0;
